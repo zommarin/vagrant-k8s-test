@@ -1,4 +1,6 @@
 .idea/
 .vagrant/
+tmp/
 join.sh
 *.log
+/kubernetes-setup/join-command
